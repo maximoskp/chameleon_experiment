@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+trained_idioms/
+trainig_data/
+blended_idioms/
+server_harmonised_output/
+
 # Distribution / packaging
 .Python
 build/
