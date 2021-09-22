@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 trained_idioms/
-trainig_data/
+training_data/
 blended_idioms/
 server_harmonised_output/
 
